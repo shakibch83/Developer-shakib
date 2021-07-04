@@ -1,0 +1,31 @@
+*{margin:0;padding:0;}
+.full_warp{
+	width:100%;
+	 
+}
+.warp{
+	width:960px;
+	display:block;
+	margin:0 auto;
+}
+.header_bg{
+	background:red;
+}
+
+.content_bg{
+	background:orange;
+}
+header{
+	background:green;
+}
+.main_content{
+	background:red;
+}
+.element_bg {
+	background:yellow;
+	height:25px;
+}
+
+
+
+

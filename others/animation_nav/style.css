@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+/* Body style start from here*/
+body{
+    color: black;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+
+}
+/* Body style webkit start from here*/
+body::-webkit-scrollbar{
+    width: 0.25rem;
+}
+body::-webkit-scrollbar-track{
+    background: black;
+
+}
+body::-webkit-scrollbar-thumb{
+    background: #6649b8;
+
+}
+
+
+/*  main css style start from here*/
+main{
+    margin-left: 5rem;
+    padding: 1rem;
+}
+
+/*  navbar css start from here*/
+.navbar{
+    width: 5rem;
+    height: 100vh;
+    position: fixed;
+    background-color: ;
+}
+
+
+
+
+
+
+
+
+
+
